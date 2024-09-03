@@ -29,3 +29,4 @@ A minimalist desktop app  to managae students record. **record are saved directl
 - Compile the code using the command: `g++ -o output_filename source_file.cpp`.
 - Run the executable using: `./output_filename` (Linux/Mac) or `output_filename.exe` (Windows).
 - Test and verify your program's functionality.
+
